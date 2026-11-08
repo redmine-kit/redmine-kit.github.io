@@ -6,7 +6,7 @@ titleTemplate: Redmine のためのオープンソースのツール
 hero:
   name: Redmine Kit
   text: Redmine のためのオープンソースのツール
-  tagline: テーマの作者のためのプラグイン、AWS のサーバーレスのサービスで Redmine を動かすためのプラグインと、その設計です。Redmine のプロジェクトとは関係ありません。
+  tagline: テーマの作者のためのプラグイン、AWS のサーバーレスのサービスで Redmine を動かすためのプラグインと、その設計です。
   actions:
     - theme: brand
       text: プラグイン
@@ -23,7 +23,7 @@ hero:
   </div>
   <div class="rk-feature">
     <p class="rk-feature-title">AWS のサーバーレスで Redmine を</p>
-    <p><a href="/serverless/ja/" target="_self">redmine-kit/serverless</a> は、最新の Redmine を S3 を使って AWS Lambda で動かす設計です。プラグイン <a href="/redmine_serverless/ja/" target="_self">Redmine Serverless</a> と組み合わせます。</p>
+    <p><a href="/serverless/ja/" target="_self">Serverless</a> は、最新の Redmine を S3 を使って AWS Lambda で動かす設計です。プラグイン <a href="/redmine_serverless/ja/" target="_self">Redmine Serverless</a> と組み合わせます。</p>
   </div>
   <div class="rk-feature">
     <p class="rk-feature-title">オープンで、資料がそろう</p>

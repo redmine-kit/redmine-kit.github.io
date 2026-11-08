@@ -6,7 +6,7 @@ titleTemplate: Open-source tools for Redmine
 hero:
   name: Redmine Kit
   text: Open-source tools for Redmine
-  tagline: Redmine plugins for theme authors and for running Redmine on AWS serverless services, and the design of a serverless Redmine. Not affiliated with the Redmine project.
+  tagline: Redmine plugins for theme authors and for running Redmine on AWS serverless services, and the design of a serverless Redmine.
   actions:
     - theme: brand
       text: Plugins
@@ -23,7 +23,7 @@ hero:
   </div>
   <div class="rk-feature">
     <p class="rk-feature-title">Redmine on AWS serverless</p>
-    <p><a href="/serverless/" target="_self">redmine-kit/serverless</a> is a design for running the latest Redmine on AWS Lambda with S3, with the plugin <a href="/redmine_serverless/" target="_self">Redmine Serverless</a>.</p>
+    <p><a href="/serverless/" target="_self">Serverless</a> is a design for running the latest Redmine on AWS Lambda with S3, with the plugin <a href="/redmine_serverless/" target="_self">Redmine Serverless</a>.</p>
   </div>
   <div class="rk-feature">
     <p class="rk-feature-title">Open and documented</p>

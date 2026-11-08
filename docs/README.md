@@ -1,6 +1,6 @@
 # redmine-kit
 
-Open-source tools for [Redmine](https://www.redmine.org/): previews for theme authors, a design for running Redmine serverless on AWS, and the plugin for it. Not affiliated with the Redmine project.
+Open-source tools for [Redmine](https://www.redmine.org/): previews for theme authors, a design for running Redmine serverless on AWS with its plugin, and a plugin for GitHub. Not affiliated with the Redmine project.
 
 ## Projects
 
@@ -9,6 +9,7 @@ Open-source tools for [Redmine](https://www.redmine.org/): previews for theme au
 | <a href="https://github.com/redmine-kit/redmine_lookbook">redmine_lookbook</a> | A Redmine 7 plugin that previews Redmine's components and pages in Lookbook, for theme authors | <a href="/redmine_lookbook/" target="_self">Redmine Lookbook</a> |
 | <a href="https://github.com/redmine-kit/redmine-serverless">redmine-serverless</a> | A design for running the latest Redmine on AWS Lambda, with S3 (design stage) | <a href="/redmine-serverless/" target="_self">redmine-serverless</a> |
 | <a href="https://github.com/redmine-kit/redmine_serverless">redmine_serverless</a> | The Redmine plugin of redmine-serverless: attachments in S3, mail through SES, administration pages (design stage) | <a href="/redmine_serverless/" target="_self">Redmine Serverless</a> |
+| <a href="https://github.com/redmine-kit/redmine_github">redmine_github</a> | A Redmine plugin that connects GitHub repositories through a GitHub App, instead of repositories on the server (under consideration) | <a href="/redmine_github/" target="_self">redmine_github</a> |
 | <a href="https://github.com/redmine-kit/docs-skeleton">docs-skeleton</a> | The VitePress skeleton that publishes the documentation of these repositories | |
 
 ## Archived

@@ -21,4 +21,4 @@ jobs:
     if: github.repository_owner == 'redmine-kit'
     uses: redmine-kit/docs-skeleton/.github/workflows/repo-docs.yml@main
     with:
-      title: redmine-kit
+      title: Redmine Kit

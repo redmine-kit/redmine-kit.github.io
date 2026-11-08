@@ -1,17 +1,24 @@
-# redmine-kit
+# Redmine Kit
 
-[Redmine](https://www.redmine.org/) のためのオープンソースのツールです。テーマの作者のためのプレビュー、AWS で Redmine をサーバーレスで動かす設計とそのプラグイン、GitHub のためのプラグインがあります。Redmine のプロジェクトとは関係ありません。
+[Redmine](https://www.redmine.org/) のためのオープンソースのツールです。Redmine のプラグインと、AWS で Redmine をサーバーレスで動かす設計があります。Redmine のプロジェクトとは関係ありません。
 
-<a id="projects"></a>
+<a id="plugins"></a>
 
-## プロジェクト
+## プラグイン
+
+| プラグイン | 内容 | ドキュメント |
+| --- | --- | --- |
+| <a href="https://github.com/redmine-kit/redmine_lookbook">redmine_lookbook</a> | Redmine 7 のコンポーネントと画面を Lookbook でプレビューする、テーマの作者のためのプラグイン | <a href="/redmine_lookbook/ja/" target="_self">Redmine Lookbook</a> |
+| <a href="https://github.com/redmine-kit/redmine_serverless">redmine_serverless</a> | AWS のサーバーレスのサービスで Redmine を動かすためのプラグイン。S3 の添付ファイル、SES のメール、管理画面(設計の段階) | <a href="/redmine_serverless/ja/" target="_self">Redmine Serverless</a> |
+| <a href="https://github.com/redmine-kit/redmine_github">redmine_github</a> | サーバーのリポジトリの代わりに、GitHub のリポジトリを GitHub App でつなぐプラグイン(検討の段階) | <a href="/redmine_github/ja/" target="_self">redmine_github</a> |
+
+<a id="other-projects"></a>
+
+## そのほかのプロジェクト
 
 | プロジェクト | 内容 | ドキュメント |
 | --- | --- | --- |
-| <a href="https://github.com/redmine-kit/redmine_lookbook">redmine_lookbook</a> | Redmine のコンポーネントと画面を Lookbook でプレビューする、テーマの作者のための Redmine 7 のプラグイン | <a href="/redmine_lookbook/ja/" target="_self">Redmine Lookbook</a> |
-| <a href="https://github.com/redmine-kit/redmine-serverless">redmine-serverless</a> | 最新の Redmine を、S3 を使って AWS Lambda で動かす設計(設計の段階) | <a href="/redmine-serverless/ja/" target="_self">redmine-serverless</a> |
-| <a href="https://github.com/redmine-kit/redmine_serverless">redmine_serverless</a> | redmine-serverless の Redmine のプラグイン。S3 の添付ファイル、SES のメール、管理画面(設計の段階) | <a href="/redmine_serverless/ja/" target="_self">Redmine Serverless</a> |
-| <a href="https://github.com/redmine-kit/redmine_github">redmine_github</a> | サーバーのリポジトリの代わりに、GitHub のリポジトリを GitHub App でつなぐ Redmine のプラグイン(検討の段階) | <a href="/redmine_github/ja/" target="_self">redmine_github</a> |
+| <a href="https://github.com/redmine-kit/serverless">serverless</a> | 最新の Redmine を、S3 と Redmine Serverless を使って AWS Lambda で動かす設計(設計の段階) | <a href="/serverless/ja/" target="_self">redmine-kit/serverless</a> |
 | <a href="https://github.com/redmine-kit/docs-skeleton">docs-skeleton</a> | これらのリポジトリのドキュメントを公開する VitePress のスケルトン | |
 
 <a id="archived"></a>

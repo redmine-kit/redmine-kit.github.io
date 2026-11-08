@@ -16,21 +16,6 @@ hero:
       link: https://github.com/redmine-kit
 ---
 
-<div class="rk-features">
-  <div class="rk-feature">
-    <p class="rk-feature-title">For theme authors</p>
-    <p><a href="/redmine_lookbook/" target="_self">Redmine Lookbook</a> previews Redmine 7's components and pages, rendered by Redmine itself, with any theme, language and layout.</p>
-  </div>
-  <div class="rk-feature">
-    <p class="rk-feature-title">Redmine on AWS serverless</p>
-    <p><a href="/serverless/" target="_self">Serverless</a> is a design for running the latest Redmine on AWS Lambda with S3, with the plugin <a href="/redmine_serverless/" target="_self">Redmine Serverless</a>.</p>
-  </div>
-  <div class="rk-feature">
-    <p class="rk-feature-title">Open and documented</p>
-    <p>Every project is open source under the GPL, with documentation in English and Japanese, and its Markdown for AI tools.</p>
-  </div>
-</div>
-
 ## Plugins
 
 <SiteList group="plugins" lang="en" />

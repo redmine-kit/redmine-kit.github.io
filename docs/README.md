@@ -1,28 +1,52 @@
-# Redmine Kit
+---
+layout: home
+title: Redmine Kit
+titleTemplate: Open-source tools for Redmine
 
-Open-source tools for [Redmine](https://www.redmine.org/): Redmine plugins, and a design for running Redmine serverless on AWS. Not affiliated with the Redmine project.
+hero:
+  name: Redmine Kit
+  text: Open-source tools for Redmine
+  tagline: Redmine plugins for theme authors and for running Redmine on AWS serverless services, and the design of a serverless Redmine. Not affiliated with the Redmine project.
+  actions:
+    - theme: brand
+      text: Plugins
+      link: '#plugins'
+    - theme: alt
+      text: GitHub
+      link: https://github.com/redmine-kit
+---
+
+<div class="rk-features">
+  <div class="rk-feature">
+    <p class="rk-feature-title">For theme authors</p>
+    <p><a href="/redmine_lookbook/" target="_self">Redmine Lookbook</a> previews Redmine 7's components and pages, rendered by Redmine itself, with any theme, language and layout.</p>
+  </div>
+  <div class="rk-feature">
+    <p class="rk-feature-title">Redmine on AWS serverless</p>
+    <p><a href="/serverless/" target="_self">redmine-kit/serverless</a> is a design for running the latest Redmine on AWS Lambda with S3, with the plugin <a href="/redmine_serverless/" target="_self">Redmine Serverless</a>.</p>
+  </div>
+  <div class="rk-feature">
+    <p class="rk-feature-title">Open and documented</p>
+    <p>Every project is open source under the GPL, with documentation in English and Japanese, and its Markdown for AI tools.</p>
+  </div>
+</div>
 
 ## Plugins
 
-| Plugin | What it is | Documentation |
-| --- | --- | --- |
-| <a href="https://github.com/redmine-kit/redmine_lookbook">redmine_lookbook</a> | Previews Redmine 7's components and pages in Lookbook, for theme authors | <a href="/redmine_lookbook/" target="_self">Redmine Lookbook</a> |
-| <a href="https://github.com/redmine-kit/redmine_serverless">redmine_serverless</a> | Runs Redmine on AWS serverless services: attachments in S3, mail through SES, administration pages (design stage) | <a href="/redmine_serverless/" target="_self">Redmine Serverless</a> |
-| <a href="https://github.com/redmine-kit/redmine_github">redmine_github</a> | Connects GitHub repositories through a GitHub App, instead of repositories on the server (under consideration) | <a href="/redmine_github/" target="_self">redmine_github</a> |
+<SiteList group="plugins" lang="en" />
 
-## Other projects
+## Projects
 
-| Project | What it is | Documentation |
-| --- | --- | --- |
-| <a href="https://github.com/redmine-kit/serverless">serverless</a> | A design for running the latest Redmine on AWS Lambda, with S3, using Redmine Serverless (design stage) | <a href="/serverless/" target="_self">redmine-kit/serverless</a> |
-| <a href="https://github.com/redmine-kit/docs-skeleton">docs-skeleton</a> | The VitePress skeleton that publishes the documentation of these repositories | |
+<SiteList group="projects" lang="en" />
 
 ## Archived
 
-| Project | What it was |
-| --- | --- |
-| <a href="https://github.com/redmine-kit/storybook">storybook</a> | Storybook stories of Redmine 4 and 5 screens for theme authors, replaced by Redmine Lookbook |
+[storybook](https://github.com/redmine-kit/storybook): Storybook stories of Redmine 4 and 5 screens for theme authors, replaced by Redmine Lookbook.
 
-## License
+## Security
 
-Each project has its own license; see its repository.
+Please do not report vulnerabilities in public issues or pull requests. Use GitHub's private vulnerability reporting: open the **Security** tab of the affected repository and choose **Report a vulnerability**. See the [security policy](https://github.com/redmine-kit/.github/blob/main/SECURITY.md).
+
+## Contributing
+
+Bug reports, questions about the designs and pull requests are welcome. Read the [contribution guide](https://github.com/redmine-kit/.github/blob/main/CONTRIBUTING.md) before you start.

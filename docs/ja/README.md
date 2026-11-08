@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | <a href="https://github.com/redmine-kit/redmine_lookbook">redmine_lookbook</a> | Redmine のコンポーネントと画面を Lookbook でプレビューする、テーマの作者のための Redmine 7 のプラグイン | <a href="/redmine_lookbook/ja/" target="_self">Redmine Lookbook</a> |
 | <a href="https://github.com/redmine-kit/redmine-serverless">redmine-serverless</a> | 最新の Redmine を、S3 を使って AWS Lambda で動かす設計(設計の段階) | <a href="/redmine-serverless/ja/" target="_self">redmine-serverless</a> |
-| <a href="https://github.com/redmine-kit/redmine_serverless">redmine_serverless</a> | redmine-serverless の Redmine のプラグイン。S3 の添付ファイル、SES のメール、管理画面(設計の段階) | <a href="/redmine_serverless/ja/" target="_self">redmine_serverless</a> |
+| <a href="https://github.com/redmine-kit/redmine_serverless">redmine_serverless</a> | redmine-serverless の Redmine のプラグイン。S3 の添付ファイル、SES のメール、管理画面(設計の段階) | <a href="/redmine_serverless/ja/" target="_self">Redmine Serverless</a> |
 | <a href="https://github.com/redmine-kit/docs-skeleton">docs-skeleton</a> | これらのリポジトリのドキュメントを公開する VitePress のスケルトン | |
 
 <a id="archived"></a>

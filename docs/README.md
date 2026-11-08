@@ -39,10 +39,6 @@ hero:
 
 <SiteList group="projects" lang="en" />
 
-## Archived
-
-[storybook](https://github.com/redmine-kit/storybook): Storybook stories of Redmine 4 and 5 screens for theme authors, replaced by Redmine Lookbook.
-
 ## Security
 
 Please do not report vulnerabilities in public issues or pull requests. Use GitHub's private vulnerability reporting: open the **Security** tab of the affected repository and choose **Report a vulnerability**. See the [security policy](https://github.com/redmine-kit/.github/blob/main/SECURITY.md).

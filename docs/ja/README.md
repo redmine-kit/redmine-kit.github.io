@@ -43,12 +43,6 @@ hero:
 
 <SiteList group="projects" lang="ja" />
 
-<a id="archived"></a>
-
-## アーカイブ
-
-[storybook](https://github.com/redmine-kit/storybook): Redmine 4 と 5 の画面の Storybook のストーリー(テーマの作者向け)。Redmine Lookbook に置き換えました。
-
 <a id="security"></a>
 
 ## セキュリティ

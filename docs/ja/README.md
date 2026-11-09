@@ -45,9 +45,3 @@ hero:
 ## スポンサー
 
 <Sponsors><a href="https://localstack.cloud">LocalStack</a></Sponsors>
-
-<a id="license"></a>
-
-## ライセンス
-
-redmine-kit.github.io は、MIT License で公開しています。[LICENSE](../../LICENSE) を参照してください。Redmine の非公式のプロジェクトです。

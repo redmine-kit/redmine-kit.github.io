@@ -50,4 +50,4 @@ hero:
 
 ## ライセンス
 
-redmine-kit.github.io は、MIT License で公開しています。[LICENSE](../../LICENSE) を参照してください。Redmine projectとは関係ありません。
+redmine-kit.github.io は、MIT License で公開しています。[LICENSE](../../LICENSE) を参照してください。Redmine の非公式のプロジェクトです。

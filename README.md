@@ -6,4 +6,4 @@ The top page of the [redmine-kit](https://github.com/redmine-kit) organization, 
 
 ## License
 
-redmine-kit.github.io is released under the MIT License. See [LICENSE](LICENSE). Not affiliated with the Redmine project.
+redmine-kit.github.io is released under the MIT License. See [LICENSE](LICENSE). An unofficial project for Redmine.

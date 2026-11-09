@@ -31,3 +31,7 @@ Please do not report vulnerabilities in public issues or pull requests. Use GitH
 ## Contributing
 
 Bug reports, questions about the designs and pull requests are welcome. Read the [contribution guide](https://github.com/redmine-kit/.github/blob/main/CONTRIBUTING.md) before you start.
+
+## Sponsors
+
+<Sponsors><a href="https://localstack.cloud">LocalStack</a></Sponsors>

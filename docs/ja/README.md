@@ -39,3 +39,7 @@ hero:
 ## 貢献
 
 バグの報告、設計についての質問、プル リクエストを歓迎します。始める前に、[貢献のガイド](https://github.com/redmine-kit/.github/blob/main/CONTRIBUTING.md)を読んでください。
+
+## スポンサー
+
+<Sponsors><a href="https://localstack.cloud">LocalStack</a></Sponsors>

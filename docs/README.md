@@ -35,3 +35,7 @@ Bug reports, questions about the designs and pull requests are welcome. Read the
 ## Sponsors
 
 <Sponsors><a href="https://localstack.cloud">LocalStack</a></Sponsors>
+
+## License
+
+redmine-kit.github.io is released under the MIT License. See [LICENSE](../LICENSE). Not affiliated with the Redmine project.

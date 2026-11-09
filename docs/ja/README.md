@@ -40,6 +40,14 @@ hero:
 
 バグの報告、設計についての質問、プル リクエストを歓迎します。始める前に、[貢献のガイド](https://github.com/redmine-kit/.github/blob/main/CONTRIBUTING.md)を読んでください。
 
+<a id="sponsors"></a>
+
 ## スポンサー
 
 <Sponsors><a href="https://localstack.cloud">LocalStack</a></Sponsors>
+
+<a id="license"></a>
+
+## ライセンス
+
+redmine-kit.github.io は、MIT License で公開しています。[LICENSE](../../LICENSE) を参照してください。Redmine projectとは関係ありません。

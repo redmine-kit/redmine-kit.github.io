@@ -32,13 +32,13 @@ hero:
 
 ## セキュリティ
 
-脆弱性は、公開の Issue やプル リクエストでは報告しないでください。GitHub の非公開の脆弱性の報告を使います。該当するリポジトリの **Security** のタブを開き、**Report a vulnerability** を選びます。[セキュリティのポリシー](https://github.com/redmine-kit/.github/blob/main/SECURITY.md)を参照してください。
+脆弱性は、公開の Issue や Pull Request では報告しないでください。GitHub の非公開の脆弱性の報告を使います。該当するリポジトリの **Security** のタブを開き、**Report a vulnerability** を選びます。[セキュリティのポリシー](https://github.com/redmine-kit/.github/blob/main/SECURITY.md)を参照してください。
 
 <a id="contributing"></a>
 
 ## 貢献
 
-バグの報告、設計についての質問、プル リクエストを歓迎します。始める前に、[貢献のガイド](https://github.com/redmine-kit/.github/blob/main/CONTRIBUTING.md)を読んでください。
+バグの報告、設計についての質問、Pull Request を歓迎します。始める前に、[貢献のガイド](https://github.com/redmine-kit/.github/blob/main/CONTRIBUTING.md)を読んでください。
 
 <a id="sponsors"></a>
 

@@ -6,7 +6,7 @@ titleTemplate: Redmine のためのオープンソースのツール
 hero:
   name: Redmine Kit
   text: Redmine のためのオープンソースのツール
-  tagline: テーマの作者のためのプラグイン、AWS のサーバーレスのサービスで Redmine を動かすためのプラグインと、その設計です。
+  tagline: チケットテンプレート、画面のヘルプ、テーマの作成に使うプラグインと、AWS のサーバーレスのサービスで Redmine を動かすためのプラグインと設計です。
   actions:
     - theme: brand
       text: プラグイン

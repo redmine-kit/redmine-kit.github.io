@@ -6,7 +6,7 @@ titleTemplate: Open-source tools for Redmine
 hero:
   name: Redmine Kit
   text: Open-source tools for Redmine
-  tagline: Redmine plugins for issue templates, help for each screen and theme authors, and plugins and a design for running Redmine on AWS serverless services.
+  tagline: Redmine plugins for issue templates, help for each screen and theme authors, and the plugins, image, infrastructure templates and deploy commands for running Redmine on AWS serverless services.
   actions:
     - theme: brand
       text: Plugins
